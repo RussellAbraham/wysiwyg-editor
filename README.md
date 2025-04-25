@@ -1,6 +1,6 @@
 # WYSIWYG Editor
 
-A lightweight, modular, and extensible Editor that uses and iframe-based contenteditable environment. Designed with MVC archiecture and event driven interaction.
+A lightweight, modular, and extensible Editor that uses an iframe-based contenteditable environment. Designed with MVC archiecture and event driven interaction.
 
 [![Codepen Demo](https://img.shields.io/badge/Codepen-Live%20Demo-black?logo=codepen&style=for-the-badge)](https://codepen.io/RJLeyra/project/full/XzWrwN)
 
